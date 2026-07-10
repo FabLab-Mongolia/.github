@@ -1,4 +1,4 @@
-# GerLab  
+# GERLAB
 ## FabLab Mongolia · Making, Learning & Sharing
 
 Welcome to **GerLab**, a FabLab and creative fabrication space in Mongolia.

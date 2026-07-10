@@ -20,14 +20,14 @@ It is a place where ideas become physical objects, mistakes become lessons, and 
 
 GerLab works across fabrication, education, culture, science, and community projects. Our GitHub organization is used to collect and share the knowledge created through these activities.
 
-### Workshop Knowledge
+### Safety Rules
 
 - General safety rules
 - PPE and dress code
 - Emergency procedures
 - Machine safety practices
-- Good workshop habits
-- Material restrictions and safe material use
+- Material restrictions
+- Safe workshop behavior
 
 ### Machine Guides
 

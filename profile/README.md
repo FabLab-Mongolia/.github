@@ -1,4 +1,4 @@
-# GERLAB
+# GerLab  
 ## FabLab Mongolia · Making, Learning & Sharing
 
 Welcome to **GerLab**, a FabLab and creative fabrication space in Mongolia.
@@ -20,65 +20,83 @@ It is a place where ideas become physical objects, mistakes become lessons, and 
 
 GerLab works across fabrication, education, culture, science, and community projects. Our GitHub organization is used to collect and share the knowledge created through these activities.
 
-### Safety Rules
+<details>
+<summary><strong>Safety Rules</strong></summary>
 
-- General safety rules
-- PPE and dress code
-- Emergency procedures
-- Machine safety practices
-- Material restrictions
-- Safe workshop behavior
+- [General safety rules](#general-safety-rules)
+- [PPE and dress code](#ppe-and-dress-code)
+- [Emergency procedures](#emergency-procedures)
+- [Machine safety practices](#machine-safety-practices)
+- [Material restrictions](#material-restrictions)
+- [Safe workshop behavior](#safe-workshop-behavior)
 
-### Machine Guides
+</details>
 
-- 3D printers
-- Laser cutter
-- CNC router
-- Vinyl cutter
-- Vacuum former
-- Electronics tools
-- Hand tools and workshop equipment
+<details>
+<summary><strong>Machine Guides</strong></summary>
+
+- [3D printers](#3d-printers)
+- [Laser cutter](#laser-cutter)
+- [CNC router](#cnc-router)
+- [Vinyl cutter](#vinyl-cutter)
+- [Vacuum former](#vacuum-former)
+- [Electronics tools](#electronics-tools)
+- [Hand tools and workshop equipment](#hand-tools-and-workshop-equipment)
 
 Each machine guide may include basic operation, risks, approved materials, maintenance notes, troubleshooting, and user tips.
 
-### Learning Resources
+</details>
 
-- Beginner tutorials
-- File preparation guides
-- Design workflow notes
-- Digital fabrication basics
-- Troubleshooting notes
-- Project guide templates
-- Recommended references
+<details>
+<summary><strong>Learning Resources</strong></summary>
 
-### Materials and Settings
+- [Beginner tutorials](#beginner-tutorials)
+- [File preparation guides](#file-preparation-guides)
+- [Design workflow notes](#design-workflow-notes)
+- [Digital fabrication basics](#digital-fabrication-basics)
+- [Troubleshooting notes](#troubleshooting-notes)
+- [Project guide templates](#project-guide-templates)
+- [Recommended references](#recommended-references)
 
-- 3D printing filaments
-- Laser-cutting materials
-- Wood, MDF, acrylic, cardboard, and sheet materials
-- Approved and prohibited materials
-- Recommended test settings
-- Material behavior during fabrication
+</details>
 
-### Projects and Open Knowledge
+<details>
+<summary><strong>Materials and Settings</strong></summary>
 
-- Student projects
-- Community builds
-- Science education projects
-- Prototypes and experiments
-- Research-related work
-- Mongolian culture-inspired creations
-- Open project guides for future makers
+- [3D printing filaments](#3d-printing-filaments)
+- [Laser-cutting materials](#laser-cutting-materials)
+- [Wood, MDF, acrylic, cardboard, and sheet materials](#wood-mdf-acrylic-cardboard-and-sheet-materials)
+- [Approved and prohibited materials](#approved-and-prohibited-materials)
+- [Recommended test settings](#recommended-test-settings)
+- [Material behavior during fabrication](#material-behavior-during-fabrication)
 
-### Events and Community Records
+</details>
 
-- Workshops
-- Exhibitions
-- SciCon activities
-- Training sessions
-- Community events
-- Progress reports
-- Collaboration notes
+<details>
+<summary><strong>Projects and Open Knowledge</strong></summary>
+
+- [Student projects](#student-projects)
+- [Community builds](#community-builds)
+- [Science education projects](#science-education-projects)
+- [Prototypes and experiments](#prototypes-and-experiments)
+- [Research-related work](#research-related-work)
+- [Mongolian culture-inspired creations](#mongolian-culture-inspired-creations)
+- [Open project guides for future makers](#open-project-guides-for-future-makers)
+
+</details>
+
+<details>
+<summary><strong>Events and Community Records</strong></summary>
+
+- [Workshops](#workshops)
+- [Exhibitions](#exhibitions)
+- [SciCon activities](#scicon-activities)
+- [Training sessions](#training-sessions)
+- [Community events](#community-events)
+- [Progress reports](#progress-reports)
+- [Collaboration notes](#collaboration-notes)
+
+</details>
 
 ---
 
@@ -125,6 +143,194 @@ Our first focus areas are:
 - Student and community projects
 - Mongolian culture-inspired fabrication work
 - A public GerLab documentation website
+
+---
+
+# Index
+
+This section gives every clickable item a target. Later, each item can link to a real page inside `gerlab-docs`.
+
+## Safety Rules
+
+### General safety rules
+
+Basic rules for safe work inside GerLab.
+
+### PPE and dress code
+
+Requirements for closed shoes, eye protection, masks, gloves, hearing protection, and safe clothing.
+
+### Emergency procedures
+
+Emergency actions for fire, injury, machine failure, smoke, strange sounds, or unsafe behavior.
+
+### Machine safety practices
+
+Safe behavior around cutting, rotating, hot, sharp, electrical, and moving equipment.
+
+### Material restrictions
+
+Rules for approved, restricted, unknown, and prohibited materials.
+
+### Safe workshop behavior
+
+Clean workspaces, responsible tool use, supervision, reporting problems, and respecting other users.
+
+---
+
+## Machine Guides
+
+### 3D printers
+
+Guides for 3D printer use, materials, slicer settings, bed cleaning, troubleshooting, and maintenance.
+
+### Laser cutter
+
+Guides for laser cutting, engraving, material testing, fire prevention, ventilation, and file preparation.
+
+### CNC router
+
+Guides for CNC operation, toolpath preparation, workholding, dust control, and machine safety.
+
+### Vinyl cutter
+
+Guides for vinyl cutting, sticker preparation, transfer tape, blade settings, and material handling.
+
+### Vacuum former
+
+Guides for forming plastic sheets, mold preparation, heating, cooling, and safe operation.
+
+### Electronics tools
+
+Guides for soldering, Arduino, sensors, basic circuits, testing tools, and electronics safety.
+
+### Hand tools and workshop equipment
+
+Guides for drill press, bandsaw, cold saw, clamps, measuring tools, and general workshop equipment.
+
+---
+
+## Learning Resources
+
+### Beginner tutorials
+
+Simple guides for new GerLab users.
+
+### File preparation guides
+
+Instructions for preparing design files for laser cutting, CNC, vinyl cutting, 3D printing, and documentation.
+
+### Design workflow notes
+
+Notes about ideation, sketching, CAD, prototyping, testing, and iteration.
+
+### Digital fabrication basics
+
+Basic explanations of 3D printing, laser cutting, CNC, vinyl cutting, electronics, and fabrication workflow.
+
+### Troubleshooting notes
+
+Common problems and fixes from real GerLab use.
+
+### Project guide templates
+
+Reusable templates for writing project documentation.
+
+### Recommended references
+
+Useful external references, books, websites, tools, and learning materials.
+
+---
+
+## Materials and Settings
+
+### 3D printing filaments
+
+PLA, PETG, TPU, ABS, and other printable materials.
+
+### Laser-cutting materials
+
+Acrylic, plywood, MDF, cardboard, paper, leather, fabric, and test samples.
+
+### Wood MDF acrylic cardboard and sheet materials
+
+Material notes for sheet-based fabrication.
+
+### Approved and prohibited materials
+
+Safe materials, restricted materials, unknown materials, and prohibited materials.
+
+### Recommended test settings
+
+Starting points for testing speed, power, temperature, feed rate, and other fabrication settings.
+
+### Material behavior during fabrication
+
+How materials cut, engrave, melt, burn, warp, bend, or fail.
+
+---
+
+## Projects and Open Knowledge
+
+### Student projects
+
+Student-made works and learning projects.
+
+### Community builds
+
+Projects created by GerLab members and collaborators.
+
+### Science education projects
+
+Educational models, demonstrations, experiments, and teaching tools.
+
+### Prototypes and experiments
+
+Early-stage tests, unfinished builds, design iterations, and learning records.
+
+### Research-related work
+
+Projects connected to research, science, engineering, and lab work.
+
+### Mongolian culture-inspired creations
+
+Projects inspired by Mongolian patterns, ger structure, nomadic tools, local materials, and cultural ideas.
+
+### Open project guides for future makers
+
+Step-by-step guides that future GerLab users can copy, improve, or remix.
+
+---
+
+## Events and Community Records
+
+### Workshops
+
+GerLab workshops and training activities.
+
+### Exhibitions
+
+Public displays, exhibitions, and maker showcases.
+
+### SciCon activities
+
+SciCon preparation, event work, fabrication tasks, and outcomes.
+
+### Training sessions
+
+Safety training, machine training, and beginner sessions.
+
+### Community events
+
+Group activities, collaboration days, and open community work.
+
+### Progress reports
+
+Monthly or event-based records of GerLab work.
+
+### Collaboration notes
+
+Notes for contributors, outside collaborators, and open-source work.
 
 ---
 

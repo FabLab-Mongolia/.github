@@ -1,9 +1,15 @@
 # GerLab  
-## FabLab Mongolia · Documentation & Maker Culture
+## FabLab Mongolia · Making, Learning & Sharing
 
 Welcome to **GerLab**, a FabLab and creative fabrication space in Mongolia.
 
-GerLab brings together digital fabrication, engineering, science, design, education, and Mongolian maker culture. This organization hosts our documentation, safety rules, machine guides, tutorials, material information, project records, and community work.
+GerLab brings together digital fabrication, engineering, science, design, education, and Mongolian maker culture. This organization is a place for our projects, safety rules, machine guides, tutorials, material knowledge, learning resources, event records, and community work.
+
+GerLab is built around one simple idea:
+
+> **Learning by doing.**
+
+We believe people learn best by making, testing, failing, improving, and sharing what they discover.
 
 GerLab is not only a room with machines.  
 It is a place where ideas become physical objects, mistakes become lessons, and people build together.

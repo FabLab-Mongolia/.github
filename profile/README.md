@@ -47,11 +47,9 @@ GerLab supports many kinds of creative and technical work:
 - Mongolian culture-inspired creations
 - Community workshop projects
 
-We start small, build often, document progress, and improve step by step.
-
 ---
 
-## Our Mission
+## Mission
 
 GerLab’s mission is to grow a creative maker environment in Mongolia where people can turn ideas into real objects through hands-on learning, collaboration, and open knowledge.
 
@@ -59,44 +57,14 @@ We support students, engineers, artists, researchers, educators, and makers who 
 
 ---
 
-## Our Values
+## Values
 
-- **Make first, learn deeply**  
-  We learn by building, testing, failing, improving, and trying again.
-
-- **Create with curiosity**  
-  We explore ideas across science, engineering, design, art, education, and culture.
-
-- **Share what we learn**  
-  We document projects, mistakes, settings, files, and methods so others can build on them.
-
-- **Respect tools, people, and space**  
-  We use machines responsibly, care for the workshop, and support each other.
-
-- **Build with Mongolian identity**  
-  We connect modern fabrication with Mongolian creativity, traditional patterns, local materials, nomadic design thinking, and community needs.
-
-- **Safety enables creation**  
-  We work safely so people can keep making, learning, and experimenting with confidence.
-
-- **Help the next maker**  
-  Every guide, project, note, and experiment should make the path easier for someone after us.
-
----
-
-## Current Focus
-
-GerLab is building its open maker knowledge step by step.
-
-Our first focus areas are:
-
-- Project guides and prototypes
-- Machine guides
-- Beginner learning resources
-- Material testing notes
-- Mongolian culture-inspired fabrication work
-- Safety and good workshop practice
-- A public GerLab handbook website
+- **Make, test, improve** — We learn by creating real things.
+- **Share knowledge** — We document projects, files, settings, mistakes, and fixes.
+- **Create with curiosity** — We explore science, engineering, design, art, education, and culture.
+- **Respect the workshop** — We care for tools, machines, materials, people, and space.
+- **Build with Mongolian identity** — We connect modern fabrication with local culture, patterns, materials, and needs.
+- **Work safely** — Safety protects the freedom to keep making.
 
 ---
 

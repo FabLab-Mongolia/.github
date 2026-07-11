@@ -1,47 +1,22 @@
 ## Welcome to the GerLab maker community
 
-GerLab is a FabLab and creative fabrication space in Mongolia.
+**GerLab** is a FabLab and creative fabrication space in Mongolia for making, experimenting, prototyping, learning, and sharing.
 
-This organization hosts GerLab’s open maker knowledge, projects, workshop guides, learning resources, and community work, including:
-
-- Projects
-  - Student projects: [gerlab-projects](https://github.com/FabLab-Mongolia/gerlab-projects)
-  - Community builds: [gerlab-projects](https://github.com/FabLab-Mongolia/gerlab-projects)
-  - Prototypes and experiments: [gerlab-projects](https://github.com/FabLab-Mongolia/gerlab-projects)
-  - Mongolian culture-inspired works: [gerlab-projects](https://github.com/FabLab-Mongolia/gerlab-projects)
-
-- Machines and fabrication
-  - Machine guides: [gerlab-machines](https://github.com/FabLab-Mongolia/gerlab-machines)
-  - 3D printers: [gerlab-machines](https://github.com/FabLab-Mongolia/gerlab-machines)
-  - Laser cutter: [gerlab-machines](https://github.com/FabLab-Mongolia/gerlab-machines)
-  - CNC router: [gerlab-machines](https://github.com/FabLab-Mongolia/gerlab-machines)
-  - Vinyl cutter, vacuum former, electronics tools: [gerlab-machines](https://github.com/FabLab-Mongolia/gerlab-machines)
-
-- Learning resources
-  - Beginner tutorials: [gerlab-learning](https://github.com/FabLab-Mongolia/gerlab-learning)
-  - File preparation: [gerlab-learning](https://github.com/FabLab-Mongolia/gerlab-learning)
-  - Design workflow: [gerlab-learning](https://github.com/FabLab-Mongolia/gerlab-learning)
-  - Troubleshooting notes: [gerlab-learning](https://github.com/FabLab-Mongolia/gerlab-learning)
-
-- Materials
-  - Material notes: [gerlab-materials](https://github.com/FabLab-Mongolia/gerlab-materials)
-  - 3D printing filaments: [gerlab-materials](https://github.com/FabLab-Mongolia/gerlab-materials)
-  - Laser-cutting materials: [gerlab-materials](https://github.com/FabLab-Mongolia/gerlab-materials)
-  - Test settings and material behavior: [gerlab-materials](https://github.com/FabLab-Mongolia/gerlab-materials)
-
-- Safety and workshop practice
-  - Safety rules: [gerlab-safety](https://github.com/FabLab-Mongolia/gerlab-safety)
-  - PPE and dress code: [gerlab-safety](https://github.com/FabLab-Mongolia/gerlab-safety)
-  - Emergency procedures: [gerlab-safety](https://github.com/FabLab-Mongolia/gerlab-safety)
-  - Safe workshop behavior: [gerlab-safety](https://github.com/FabLab-Mongolia/gerlab-safety)
-
-- Handbook and website
-  - GerLab handbook sources: [gerlab-docs](https://github.com/FabLab-Mongolia/gerlab-docs)
-  - Public documentation website: [gerlab-docs](https://github.com/FabLab-Mongolia/gerlab-docs)
-
-GerLab is built around one simple idea:
+We bring together digital fabrication, engineering, science, design, education, art, and Mongolian maker culture.
 
 > **Learning by doing.**
 
-We make, test, fail, improve, document, and share.
+This organization hosts GerLab’s open maker knowledge, including:
 
+- **Projects:** [student projects](https://github.com/FabLab-Mongolia/gerlab-projects), prototypes, experiments, community builds, Mongolian culture-inspired works
+- **Machines:** [3D printers, laser cutter, CNC router, vinyl cutter, vacuum former, electronics tools](https://github.com/FabLab-Mongolia/gerlab-machines)
+- **Learning:** [beginner tutorials, file preparation, design workflow, troubleshooting](https://github.com/FabLab-Mongolia/gerlab-learning)
+- **Materials:** [filaments, laser materials, wood, MDF, acrylic, test settings](https://github.com/FabLab-Mongolia/gerlab-materials)
+- **Safety:** [safety rules, PPE, emergency procedures, safe workshop behavior](https://github.com/FabLab-Mongolia/gerlab-safety)
+- **Events:** [workshops, exhibitions, SciCon activities, training sessions, progress records](https://github.com/FabLab-Mongolia/gerlab-events)
+- **Handbook:** [GerLab public handbook and documentation website](https://github.com/FabLab-Mongolia/gerlab-docs)
+
+GerLab is not only a room with machines.  
+It is a creative community where people sketch, model, print, cut, test, break, improve, document, and share.
+
+**Made by makers, for makers — in Mongolia.**

@@ -15,13 +15,13 @@ It is a place where people sketch, model, print, cut, code, build, break, improv
 
 ## Explore GerLab
 
-- **Projects** — student projects, prototypes, experiments, community builds, and Mongolian culture-inspired works  
-- **Machines** — 3D printers, laser cutter, CNC router, vinyl cutter, vacuum former, electronics tools, and workshop equipment  
-- **Learning** — beginner tutorials, file preparation, design workflow, troubleshooting, and learning resources  
-- **Materials** — filaments, laser materials, wood, MDF, acrylic, test settings, and material behavior  
-- **Safety** — safety rules, PPE, emergency procedures, machine safety, and safe workshop behavior  
-- **Events** — workshops, exhibitions, SciCon activities, training sessions, and progress records  
-- **Handbook** — future public GerLab handbook and documentation website  
+- **[Projects](https://github.com/FabLab-Mongolia/gerlab-projects)** — student projects, prototypes, experiments, community builds, and Mongolian culture-inspired works
+- **[Machines](https://github.com/FabLab-Mongolia/gerlab-machines)** — 3D printers, laser cutter, CNC router, vinyl cutter, vacuum former, electronics tools, and workshop equipment
+- **[Learning](https://github.com/FabLab-Mongolia/gerlab-learning)** — beginner tutorials, file preparation, design workflow, troubleshooting, and learning resources
+- **[Materials](https://github.com/FabLab-Mongolia/gerlab-materials)** — filaments, laser materials, wood, MDF, acrylic, test settings, and material behavior
+- **[Safety](https://github.com/FabLab-Mongolia/gerlab-safety)** — safety rules, PPE, emergency procedures, machine safety, and safe workshop behavior
+- **[Events](https://github.com/FabLab-Mongolia/gerlab-events)** — workshops, exhibitions, SciCon activities, training sessions, and progress records
+- **[Handbook](https://github.com/FabLab-Mongolia/gerlab-docs)** — future public GerLab handbook and documentation website
 
 ---
 
@@ -31,4 +31,4 @@ GerLab exists to grow a creative maker environment in Mongolia where students, e
 
 We make first, learn deeply, document what works, share what fails, and help the next maker build faster.
 
-**Made by makers, for makers — in Mongolia.**
+**Made with care in Mongolia.**

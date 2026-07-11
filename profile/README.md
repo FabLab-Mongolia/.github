@@ -19,4 +19,4 @@ This organization hosts GerLab’s open maker knowledge, including:
 GerLab is not only a room with machines.  
 It is a creative community where people sketch, model, print, cut, test, break, improve, document, and share.
 
-**Made by makers, for makers — in Mongolia.**
+**Made with care in Mongolia.**

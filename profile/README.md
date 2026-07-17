@@ -30,5 +30,3 @@ It is a place where people sketch, model, print, cut, code, build, break, improv
 GerLab exists to grow a creative maker environment in Mongolia where students, engineers, artists, researchers, educators, and makers can turn ideas into physical things.
 
 We make first, learn deeply, document what works, share what fails, and help the next maker build faster.
-
-**Made with care in Mongolia.**
